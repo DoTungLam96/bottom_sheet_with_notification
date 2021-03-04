@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BottomSheetAndroid</string>
+    <string name="BottomSheetBehavior">com.example.bottomsheetandroid.behavior.BehaviorBottomSheet</string>
+</resources>
